@@ -84,4 +84,4 @@ There is also a ``make restart`` command you can use to restart your server.
 Credits
 =======
 
-This project base setup idea is based on `dj-skeletor <https://github.com/senko/dj-skeletor>`_.
+This project base setup idea is a clone of `djangocms-skeletor <https://github.com/dinoperovic/djangocms-skeletor>`_.
