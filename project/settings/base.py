@@ -77,7 +77,8 @@ INSTALLED_APPS = [
     'parler',
     'rosetta',
     'utils',
-    'contactus'
+    'contactus',
+    'contact_form',
 ]
 
 
